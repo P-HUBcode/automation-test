@@ -2,7 +2,7 @@
 
 > **Trường Đại học Văn Lang - Khoa Công nghệ Thông tin**  
 > **Học phần:** Kiểm thử tự động (`232_71ITSE41603_0102`) | **Khóa:** K27  
-> **Nhóm thực hiện:** **Nhóm 09 (Team 09)**  
+> **Nhóm thực hiện:** **Nhóm 06 (Team 06)**  
 > **Sinh viên:** Nguyễn Minh Phú - **MSSV:** `2374802013447`
 
 ---
@@ -28,18 +28,19 @@ automation-test/
 │   ├── 02_KeHoach_ProjectPlan/                # Kế hoạch thực hiện đồ án (Test Plan Word & Excel)
 │   ├── 03_KichBan_TestCases/                  # Bộ kịch bản kiểm thử chi tiết (Test Cases Excel)
 │   ├── 04_MaNguon_AutomationProject/          # Mã nguồn Selenium Java Maven theo chuẩn POM
-│   │   └── 232_71ITSE41603_Team09_Automation/ # Framework kiểm thử tự động hoàn chỉnh của Team 09
-│   ├── 05_BaoCao_WordReports/                 # Báo cáo đồ án chính thức (Team09_Ver1.4.docx)
-│   ├── 06_GoiNopBai_Submissions/              # Gói nộp bài hoàn chỉnh (Team09)
+│   │   └── 232_71ITSE41603_Team06_Automation/ # Framework kiểm thử tự động hoàn chỉnh của Team 06
+│   ├── 05_BaoCao_WordReports/                 # Báo cáo đồ án chính thức (Team06_Ver1.4.docx)
+│   ├── 06_GoiNopBai_Submissions/              # Gói nộp bài hoàn chỉnh (Team06)
 │   ├── 07_CongCu_Scripts/                     # Script hỗ trợ sinh tài liệu và tự động hóa
 │   ├── 08_LuuTru_Backup/                      # Lưu trữ lịch sử các phiên bản
 │   └── ui_images/                             # Toàn bộ hình ảnh thực nghiệm kiểm thử thực tế trên Cốc Cốc / Chrome
 │
-├── Team09_Ver1.4.docx                         # Báo cáo đồ án học thuật bản chính thức (Ver 1.4)
-├── TestCase_DoAnNhom_Team09.xlsx              # Bộ kịch bản kiểm thử đồ án nhóm tổng hợp
-├── TestCase_DoAnNhom_Team09_FullSheets.xlsx   # Kịch bản kiểm thử đầy đủ các sheet chức năng
-├── KeHoach_DoAnNhom_Team09.xlsx               # Bảng phân công và kế hoạch thực hiện đồ án
-├── 232_71ITSE41603_0102_NguyenMinhPhu_Team09.zip # Gói nộp bài Master nén đầy đủ cho giảng viên
+├── Team06_Ver1.4.docx                         # Báo cáo đồ án học thuật bản chính thức (Ver 1.4)
+├── TestCase_DoAnNhom_Team06.xlsx              # Bộ kịch bản kiểm thử đồ án nhóm tổng hợp
+├── TestCase_DoAnNhom_Team06_FullSheets.xlsx   # Kịch bản kiểm thử đầy đủ các sheet chức năng
+├── KeHoach_DoAnNhom_Team06.xlsx               # Bảng phân công và kế hoạch thực hiện đồ án
+├── 232_71ITSE41603_0102_NguyenMinhPhu_Team06.zip # Gói nộp bài Master nén đầy đủ cho giảng viên
+├── 232_71ITSE41603_0102_Team06.zip            # Tệp nộp bài chuẩn môn học
 ├── .gitignore                                 # Bộ lọc bỏ file rác, file nhị phân và cache
 └── README.md                                  # Hướng dẫn chi tiết về dự án
 ```
@@ -66,9 +67,9 @@ automation-test/
 - Trình duyệt Chrome hoặc Cốc Cốc phiên bản mới nhất.
 
 ### 2. Thực thi kịch bản kiểm thử
-Di chuyển vào thư mục mã nguồn Selenium của Team 09:
+Di chuyển vào thư mục mã nguồn Selenium của Team 06:
 ```bash
-cd "Do an nhom/04_MaNguon_AutomationProject/232_71ITSE41603_Team09_Automation"
+cd "Do an nhom/04_MaNguon_AutomationProject/232_71ITSE41603_Team06_Automation"
 ```
 
 Chạy toàn bộ Test Suites:
