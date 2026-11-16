@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Selenium_TH08_Suite" verbose="1">
+    <test name="Bai_02_Barcode_Reader">
+        <classes>
+            <class name="Test_NG.ReateBarCode"/>
+        </classes>
+    </test>
+    
+    <test name="Bai_03_CSV_Reader">
+        <classes>
+            <class name="Test_NG.CSVReader2"/>
+        </classes>
+    </test>
+
+    <test name="Bai_04_POM_LienHe">
+        <classes>
+            <class name="TestNG.TCs_LienHe"/>
+        </classes>
+    </test>
+
+    <test name="Bai_01_DataDriven_JSON">
+        <classes>
+            <class name="Test_NG.DDTestUsingJson"/>
+        </classes>
+    </test>
+</suite>

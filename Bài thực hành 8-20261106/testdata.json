@@ -1,0 +1,28 @@
+{
+"userlogins": [
+{
+  "username": "phanphuoc@gmail.com",
+  "password": "Test@123"
+},
+{
+  "username": "hieu_hien_lam_tu@gmail.com",
+  "password": "Test@12345"
+},
+{
+  "username": "kiemthutudong@yahoo.com",
+  "password": "admin@12345"
+},
+{
+  "username": "selenium@yahoo.com",
+  "password": "admin@12345789"
+},
+{
+  "username": "testapi@yahoo.com",
+  "password": "admin@1234578"
+},
+{
+  "username": "pltsolutions@gmail.com",
+  "password": "plt@1234578"
+}
+]
+}

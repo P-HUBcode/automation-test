@@ -1,0 +1,46 @@
+# ==========================================
+# GITIGNORE CHO DỰ ÁN AUTOMATION TEST (KTDT)
+# ==========================================
+
+# Maven & Java Build Output
+target/
+**/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs & Test Reports output
+*.log
+test-output/
+**/test-output/
+allure-results/
+surefire-reports/
+**/surefire-reports/
+
+# IDE & Editor Settings
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+.metadata/
+bin/
+
+# OS & Temporary Office Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+~$*
+.~lock.*
+
+# Maven Tool Binaries (Khuyên dùng Maven cài đặt trên hệ thống hoặc wrapper)
+maven_tool/
+maven.zip
+
+# File không thuộc đồ án kiểm thử
+Bao_gia_OK_Ve_Sinh.pdf
+Do an nhom/References/
